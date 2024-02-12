@@ -20,3 +20,5 @@ Just flash and try to scan the device
 
 The user in makefile was changed. Take care with this in your setup.
 
+<hr>
+Any comments contact me. `mwesk7aty@mozmail.com`
